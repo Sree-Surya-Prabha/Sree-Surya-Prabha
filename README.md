@@ -7,8 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=Sree-Surya-Prabha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-- 🎓 B.Tech CSE (IoT & Automation) Student  
-- 🌱 Currently learning **Full Stack Web Development & Artificial Intelligence**  
+- 🎓 B.Tech CSE (IoT & Automation) Student with 85% 
+- 🌱 Currently learning **Full Stack Web Development**  
 - 💻 Interested in **Web Development, Software Development and AI**  
 - 📫 Reach me at **b.v.sweety25@gmail.com**
 
